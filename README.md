@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Sacha Duperret** !
+# 👋 Bonjour, je suis **Sacha** !
 
 🔎 **Expert en gestion de projets, gouvernance publique et coordination d'équipes**. Passionné par les politiques publiques, la sécurité et la transition environnementale. Actuellement en préparation des concours de la fonction publique (INSP). 
 
@@ -58,7 +58,7 @@
 
 ---
 
-# 👋 Hello, I’m **Sacha Duperret**!
+# 👋 Hello, I’m **Sacha**!
 
 🔎 **Expert in project management, public governance, and team coordination**. Passionate about public policies, security, and environmental transitions. Currently preparing for French public administration (INSP) competitive exams.
 
